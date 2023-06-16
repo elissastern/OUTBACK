@@ -1,0 +1,3 @@
+.card-wrapper:nth-of-type(n+2) .add-self-button {
+ display:none;
+}
